@@ -1,8 +1,7 @@
 {
-  "name": "PokemonGo Map",
+  "name": "Pkmapmons",
   "description": "Live visualization of all the Pokémon (with option to show gyms and pokéstops) in an area on Pokémon Go.",
   "repository": "https://github.com/seebadoris/pkmapmons",
-  "website": "https://jz6.github.io/PoGoMap/",
   "env": {
     "AUTH_SERVICE": {
       "description": "Authentication service to use. (ptc or google)"
